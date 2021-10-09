@@ -1,8 +1,11 @@
 # LootiEditor
 
 ### Authors
-**Luftkatze***
+**Luftkatze**
+
 **Ilobilo**
+
 **BaseMax**
+
 
 [Discord server](https://discord.gg/TfwFp8cuNc)
