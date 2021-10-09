@@ -31,7 +31,7 @@
             Console.Write(tosav);
             for (; ; )
             {
-                
+            
                 ConsoleKeyInfo input = Console.ReadKey();
                 if (input.Key == ConsoleKey.Enter)
                 {
