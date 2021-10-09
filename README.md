@@ -1,5 +1,7 @@
 # Looti Editor - a text editor for COSMOS
 
+![Looti Editor - cosmos OS](preview.png)
+
 ### Authors
 
 - **Luftkatze**
