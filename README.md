@@ -1,4 +1,4 @@
-# LootiEditor
+# LootiEditor - a text editor for COSMOS
 
 ### Authors
 **Luftkatze**
