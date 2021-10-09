@@ -10,4 +10,6 @@
 
 Preview video: https://www.youtube.com/watch?v=BsBzGVwcMFs
 
+<!--
 [Discord server](https://discord.gg/TfwFp8cuNc)
+-->
