@@ -1,6 +1,6 @@
 # Looti Editor - a text editor for COSMOS
 
-[![Looti Editor - cosmos OS](preview.png)](https://www.youtube.com/watch?v=BsBzGVwcMFs)
+[![Looti Editor - cosmos OS](looti.png)]()
 
 ### Authors
 
